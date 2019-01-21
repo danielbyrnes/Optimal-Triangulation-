@@ -1,0 +1,4 @@
+Compute the minimum weight triangulation of a convex polygon. 
+
+First, generate a random convex polygon with n sides. 
+Then compute the minimum weight triangulation and save indices to file. 
